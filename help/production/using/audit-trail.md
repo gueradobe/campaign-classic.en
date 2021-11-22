@@ -89,7 +89,7 @@ To do so:
 
 1. Select one of the following options depending on the entity you want to activate/deactivate:
 
-    * For Workflow: **[!UICONTROL XtkAudit_Workflows]** 
+    * For Workflow: **[!UICONTROL XtkAudit_Workflow]** 
     * For Schemas: **[!UICONTROL XtkAudit_DataSchema]** 
     * For Options: **[!UICONTROL XtkAudit_Option]** 
     * For every entity: **[!UICONTROL XtkAudit_Enable_All]**
